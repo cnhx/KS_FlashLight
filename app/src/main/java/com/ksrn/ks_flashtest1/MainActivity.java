@@ -21,7 +21,7 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
 public class MainActivity extends Activity {
-
+//TODO added Android 5.0+ support
     private ImageButton btnSwitch;
 
     private Camera camera;
